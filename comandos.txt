@@ -1,5 +1,9 @@
-git init
-git config --global user.name “Seu nome”
-git config --global user.email “Seu email”
-git add
-git commit
+git init - Inicia o git dentro do repositório adicionando a pasta oculta “.git”
+git config --global user.name “Seu nome” -  Configura o nome de usuário que irá fazer os
+commits
+git config --global user.email “Seu email” - Configura o endereço de email que irá fazer
+os commits
+git add - Adiciona o arquivo para “staging area”, local onde os arquivos
+ficam para serem versionados (commits)
+git commit - Realiza o commit (versionamento) do(s)
+arquivo(s) que estão no staging area
